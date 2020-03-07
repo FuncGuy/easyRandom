@@ -17,8 +17,6 @@ public class Test {
 
         Type genericType = nickNamesField.getGenericType();
 
-        System.out.println("JAVA 8 = " + genericType.getTypeName());
-
         System.out.println("field genericType = " + genericType);
 
         ParameterizedType parameterizedType = (ParameterizedType) genericType;
