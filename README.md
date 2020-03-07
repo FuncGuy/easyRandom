@@ -6,7 +6,7 @@ from the List<String> so it will turn into List.
 
 2) To get the type information what it was i.e before type erasure kicks in to know this info please understand the program
    
-For more understanding go to below url:-
+For more understanding:-
    
    https://www.beyondjava.net/type-erasure-revisited
    
